@@ -36,7 +36,7 @@ The report comprises of the Hotel
 - percentage of car space by year
 - reservation date by revenue
 
- The report can be accessed here --- [](main_project_hotel_project.png)
+ The report can be accessed here --- ![](main_project_hotel_project.png)
 
  ## Analysis
 
